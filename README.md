@@ -1,4 +1,4 @@
-# webpack-template
+# Webpack setting template
 
 Webpack template to use as a starting point in web projects.
 
