@@ -30,10 +30,10 @@ To get a local copy up and running follow these simple example steps.
 
 - Install git on your local computer.
 - Clone this repository to your local computer. Choose the location you prefer.
+- Run the command *npm install* to install all project's dependencies.
 
 ### Deployment
 
-- Run the command *node install* to install all dependencies.
 - Run the command line *npm run start*.
 - The basic template will automatically open the *index.html* file in a browser.
 
