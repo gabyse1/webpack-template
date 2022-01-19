@@ -6,7 +6,8 @@ module.exports = {
   entry: { index: './src/index.js' },
   devtool: 'inline-source-map',
   devServer: {
-    static: './dist',
+    static: ['./dist'],
+    watchFiles: ['src/**/*'],
   },
   watchOptions: {
     ignored: /node_modules/,
