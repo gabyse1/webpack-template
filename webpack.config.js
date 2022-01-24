@@ -7,7 +7,7 @@ module.exports = {
   devtool: 'inline-source-map',
   devServer: {
     static: ['./dist'],
-    watchFiles: ['src/**/*'],
+    watchFiles: ['./src/**/*'],
   },
   watchOptions: {
     ignored: /node_modules/,

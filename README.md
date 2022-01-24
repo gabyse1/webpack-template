@@ -14,7 +14,7 @@ The template is made up of:
 
 ## Built With
 
-- HTML / CSS / Javascript
+- Webpack / HTML / CSS / Javascript
 
 
 ## Getting Started
